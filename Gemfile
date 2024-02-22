@@ -32,7 +32,7 @@ end
 
 group :development do
   gem 'faker'
-  # gem 'graphiql-rails'
+  gem 'graphiql-rails'
   gem 'graphql', '~> 1.11.6'
 end
 
